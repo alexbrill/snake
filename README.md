@@ -1,6 +1,6 @@
 # snake
 
-writed using Pygame
+using Pygame
 
 control: arrows
 
